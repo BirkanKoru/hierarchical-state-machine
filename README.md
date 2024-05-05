@@ -16,3 +16,11 @@ The character controller in this project uses a hierarchical state machine to ma
 Ensure you have the following software installed:
 - Unity Editor (2020.3 LTS or later recommended)
 - A compatible C# IDE (Visual Studio is recommended)
+
+### Usage
+
+To interact with the character:
+
+- Use the **WASD** keys to move the character.
+- Press **Space** to make the character jump.
+- Press **Left Control** to make the character crouch.
