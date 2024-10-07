@@ -16,6 +16,7 @@ The character controller in this project uses a hierarchical state machine to ma
 Ensure you have the following software installed:
 - Unity Editor (2020.3 LTS or later recommended)
 - A compatible C# IDE (Visual Studio is recommended)
+- com.unity.inputsystem (Unity's InputSystem library)
 
 ### Usage
 
